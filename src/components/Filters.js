@@ -7,7 +7,7 @@ function Filters() {
     filterState: { byStock, byFastDelivery, sort, byRating },
     filterDispatch,
   } = FilterState();
-  console.log(byStock, byFastDelivery, sort, byRating);
+  // console.log(byStock, byFastDelivery, sort, byRating);
 
   return (
     <div className="filters">
