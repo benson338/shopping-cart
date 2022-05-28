@@ -7,7 +7,7 @@
   margin: 10px 0;
 }
 
-.cartitem {
+.cartItem {
   display: flex;
   justify-content: space-between;
   align-items: center;
